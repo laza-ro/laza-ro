@@ -43,7 +43,6 @@ Aplicação web estruturada com frontend, backend, banco de dados e rede isolada
 
 **Tecnologias utilizadas:** Docker, Docker Compose, Node.js, Vue.js, PostgreSQL
 
-[Ver repositório](Link Futuramente)
 
 ---
 
